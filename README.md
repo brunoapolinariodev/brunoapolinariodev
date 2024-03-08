@@ -1,5 +1,5 @@
 # 🌎 Hello World!:
-👋 Meu nome é Bruno Apolinario, tenho 26 anos e assim como muitos aqui minha jornada também começou com a frase acima.<br>🎓Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas pela PUC-PR no terceiro semestre.<br>🔍 Estou em busca do primeiro estágio ainda, então se souber de algo ou tiver interesse em me contratar, entre em contato.<br>
+👋 Meu nome é Bruno Apolinario, tenho 26 anos e assim como muitos aqui minha jornada também começou com a frase acima.<br>🎓Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas pela PUC-PR no terceiro semestre.<br>🔍 Estou em busca do primeiro estágio, então se souber de algo ou tiver interesse em me contratar entre em contato.<br>
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-apolinario-b681b6265) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23563428) 
