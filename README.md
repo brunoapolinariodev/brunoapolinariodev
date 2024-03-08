@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello World!<br>👋 Meu nome é Bruno Apolinario, tenho 26 anos <br>🎓Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas pela PUC-PR no terceiro semestre.<br>🔍 Estou em busca do primeiro estágio ainda, então se souber de algo ou tiver interesse em me contratar, entre em contato!
+# 🗺️ Hello World:
+👋 Meu nome é Bruno Apolinario, tenho 26 anos e assim como muitos aqui minha jornada também começou com a frase acima. <br>🎓Atualmente, sou estudante do curso de Análise e Desenvolvimento de Sistemas pela PUC-PR no terceiro semestre.<br>🔍 Estou em busca do primeiro estágio ainda, então se souber de algo ou tiver interesse em me contratar, entre em contato!
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
