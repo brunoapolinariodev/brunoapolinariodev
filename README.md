@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=brunoapolinariodev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ![cheems-doge](https://github.com/brunoapolinariodev/brunoapolinariodev/assets/123766303/1f582df3-c459-492e-80cf-841cd1756deb)
-# Se você não é punk com a vida a vida é punk com você -Cyberpunk Doge
+# Se você não é punk com a vida, a vida é punk com você -Cyberpunk Doge
 
 
 
