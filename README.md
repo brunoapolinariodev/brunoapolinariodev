@@ -1,11 +1,61 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6a11cb&text=Welcome%20to%20my%20GitHub%20🚀&reversal=true&fontSize=30&animation=fadeIn&fontColor=ffffff&desc=Building%20solutions%20with%20code%20|%20Python%20|%20JavaScript%20|%20Docker%20|%20GraphQL%20|%20SQL&descSize=20&descAlign=50&&fontAlign=50&fontAlignY=35&descAlignY=59&textBg=false)
 
-# 👋 Hello World, I’m Bruno
-
+#  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=About+Me&color=6a11cb)
 - 🎓 Systems Analysis and Development @ PUCPR  
 - 🛠️ Python | JavaScript | GraphQL | Docker | SQL  
 - 🛒 E-commerce & Marketplace experience (Americanas S.A / H&M)  
 - 🌐 Focused on Web Development & API Integrations  
+
+#  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=Tech+Stacks&color=3e64b5)
+
+| 🖥️ Backend / Programming | 🎨 Frontend |
+| :----------------------: | :---------: |
+| <img src="https://skillicons.dev/icons?i=python,django,flask,graphql,nodejs,js" /> | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
+
+| ☁️ DevOps / Cloud / OS | 🗄️ Databases |
+| :-------------------: | :----------: |
+| <img src="https://skillicons.dev/icons?i=docker,azure,git,linux,windows" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> |
+
+| 🛠️ Tools |
+| :-------: |
+| <img src="https://skillicons.dev/icons?i=postman,figma,vscode" /> |
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=📌+Where+to+Find+Me&color=3e64b5)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunoapolinariodev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:brunoapolinario.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  <a href="https://discord.com/users/SEU_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+  </a>
+  <a href="https://github.com/brunoapolinariodev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</p>
+
+
+
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=Where+to+Find+Me&color=3e64b5)
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=GitHub+Stats&color=0db7ed)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoapolinariodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapolinariodev&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=Extras&color=0db7ed)
+
+
+
+
+
+
 
 
 
