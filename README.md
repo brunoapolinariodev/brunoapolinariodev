@@ -1,13 +1,5 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6a11cb&text=Welcome%20to%20my%20GitHub%20🚀&reversal=true&fontSize=30&animation=fadeIn&fontColor=ffffff&desc=Building%20solutions%20with%20code%20|%20Python%20|%20JavaScript%20|%20Docker%20|%20GraphQL%20|%20SQL&descSize=20&descAlign=50&&fontAlign=50&fontAlignY=35&descAlignY=59&textBg=false)
 
-
-<div align="center">
-
-# <span style="color:white">Bruno Apolinario</span>
-
-</div>
-
-
 #  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=About+Me&color=6a11cb)
 - 🎓 Systems Analysis and Development @ PUCPR  
 - 🛠️ Python | JavaScript | GraphQL | Docker | SQL  
