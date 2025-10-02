@@ -23,13 +23,13 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=📌+Where+to+Find+Me&color=3e64b5)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunoapolinariodev/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-apolinario-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="mailto:brunoapolinario.dev@gmail.com" target="_blank">
+  <a href="mailto:brunoapolinariodev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-  <a href="https://discord.com/users/SEU_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/1309327888306278433" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="50"/>
   </a>
   <a href="https://github.com/brunoapolinariodev" target="_blank">
