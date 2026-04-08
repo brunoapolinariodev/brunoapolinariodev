@@ -1,47 +1,45 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6a11cb&text=Welcome%20to%20my%20GitHub%20🚀&reversal=true&fontSize=30&animation=fadeIn&fontColor=ffffff&desc=Building%20solutions%20with%20code%20|%20Python%20|%20JavaScript%20|%20Docker%20|%20GraphQL%20|%20SQL&descSize=20&descAlign=50&&fontAlign=50&fontAlignY=35&descAlignY=59&textBg=false)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0db7ed,100:6a11cb&text=Bruno%20Apolinário%20👋&fontSize=35&fontColor=ffffff&desc=Junior%20Full%20Stack%20Developer%20@%20Code21&descSize=18&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=65" width="100%" />
 
-#  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=About+Me&color=6a11cb)
-- 🎓 Systems Analysis and Development @ PUCPR  
-- 🛠️ Python | JavaScript | GraphQL | Docker | SQL  
-- 🛒 E-commerce & Marketplace experience (Americanas S.A / H&M)  
-- 🌐 Focused on Web Development & API Integrations  
+  <br />
 
-#  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=Tech+Stacks&color=3e64b5)
+  ### 📍 Curitiba, Brazil
+  *Transforming ideas into elegant, high-performance code.*
 
-
-<div align="left">
-
-### 🖥️ Backend / Programming  
-<img src="https://skillicons.dev/icons?i=python,django,flask,graphql,nodejs,js" /><br><br>
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br><br>
-
-### ☁️ DevOps / Cloud / OS  
-<img src="https://skillicons.dev/icons?i=docker,azure,git,linux,windows" /><br><br>
-
-### 🛠️ Tools & Databases  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,postman,figma,vscode,bash,powershell,github" />
-
+  ---
 </div>
 
+### 📖 About Me
+I'm a **Junior Full Stack Developer** at **Code21**, dedicated to building scalable backend architectures and modern web interfaces. I'm a tech enthusiast who loves the challenge of learning new stacks.
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=Where+to+Find+Me&color=3e64b5)
+* 🛠️ **Current focus:** .NET, Go, and Angular.
+* 🤖 **AI & Research:** Exploring **Local LLMs** with Ollama.
+* ☁️ **Cloud Journey:** Currently studying **Google Cloud Platform (GCP)**.
+* 🛒 **Side Project:** Founder of **RushB Store**, focused on CS2 apparel.
 
+---
+
+### 💻 Tech Stack
+
+**Backend & Languages**
+> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+**Frontend & Design**
+> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+**Cloud & Infrastructure**
+> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+---
+
+### 🤝 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/bruno-apolinario-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:brunoapolinariodev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://discord.com/users/1309327888306278433" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
-  <a href="https://github.com/brunoapolinariodev" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://www.linkedin.com/in/bruno-apolinario-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brunoapolinariodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<br />
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&width=600&lines=GitHub+Stats&color=0db7ed)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoapolinariodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapolinariodev&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-
-![banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0db7ed,100:6a11cb&reversal=false&fontSize=30&animation=fadeIn&fontColor=ffffff&desc=/brunoapolinariodev%20-%20Powered%20by%20Coffee%20☕%20and%20Code%20💻&descSize=20&descAlign=32&fontAlign=50&fontAlignY=39&descAlignY=87&textBg=false&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0db7ed,100:6a11cb&section=footer&reversal=false" width="100%" />
+</div>
