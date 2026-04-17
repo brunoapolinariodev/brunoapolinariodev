@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0db7ed,100:6a11cb&text=Bruno%20Apolinário%20👋&fontSize=35&fontColor=ffffff&desc=Junior%20Full%20Stack%20Developer%20@%20Code21&descSize=18&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0db7ed,100:6a11cb&text=Bruno%20Apolinario&fontSize=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20@%20Code21&descSize=18&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=65" width="100%" />
 
   <br />
 
   ### 📍 Curitiba, Brazil
-  *Transforming ideas into elegant, high-performance code.*
+  *Solving complex problems through code..*
 
   ---
 </div>
 
-### 📖 About Me
-I'm a **Junior Full Stack Developer** at **Code21**, dedicated to building scalable backend architectures and modern web interfaces. I'm a tech enthusiast who loves the challenge of learning new stacks.
+###  About Me
+I'm a **Full Stack Developer** at **Code21**, dedicated to building scalable backend architectures and modern web interfaces. I'm a tech enthusiast who loves the challenge of learning new stacks.
 
-* 🛠️ **Current focus:** .NET, Go, and Angular.
-* 🤖 **AI & Research:** Exploring **Local LLMs** with Ollama.
-* ☁️ **Cloud Journey:** Currently studying **Google Cloud Platform (GCP)**.
-* 🛒 **Side Project:** Founder of **RushB Store**, focused on CS2 apparel.
+*  **Current focus:** .NET, Go, and Angular.
+*  **AI & Research:** Exploring **Local LLMs** with Ollama.
+*  **Cloud Journey:** Currently studying **Google Cloud Platform (GCP)**.
+
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 **Backend & Languages**
 > <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -32,7 +32,7 @@ I'm a **Junior Full Stack Developer** at **Code21**, dedicated to building scala
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/bruno-apolinario-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brunoapolinariodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
