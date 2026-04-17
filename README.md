@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0db7ed,100:6a11cb&text=Bruno%20Apolinario&fontSize=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20@%20Code21&descSize=18&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=65" width="100%" />
   <br />
+  <br />
+
+  😎 My everyday buddies 👇
   
   <a href="https://ibb.co/HLdL9N9d"><img src="https://i.ibb.co/xKHKrmrH/Gemini-Generated-Image-aeii8caeii8caeii-Photoroom.png" alt="Gemini-Generated-Image-aeii8caeii8caeii-Photoroom" border="0"></a>
 
@@ -11,10 +14,10 @@
 </div>
 
 ###  About Me
-I'm a **Full Stack Developer** at **Code21**, dedicated to building scalable backend architectures and modern web interfaces. I'm a tech enthusiast who loves the challenge of learning new stacks.
+I'm a **Full Stack Developer** at **Code21**, passionate about crafting robust backend systems and dynamic user experiences. I thrive on tackling difficult problems and highly value good communication to keep the team aligned and moving forward. Off the clock, I'm a huge sci-fi fan, always ready to explore the lore of Warhammer 40k and Dune.
 
 *  **Current focus:** .NET, Go, and Angular.
-*  **AI & Research:** Exploring **Local LLMs** with Ollama.
+*  **AI & Research:** Exploring **Local LLMs** with Ollama and LM Studio
 *  **Cloud Journey:** Currently studying **Google Cloud Platform (GCP)**.
 
 
