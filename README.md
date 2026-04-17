@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0db7ed,100:6a11cb&text=Bruno%20Apolinario&fontSize=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20@%20Code21&descSize=18&descAlign=50&fontAlign=50&fontAlignY=40&descAlignY=65" width="100%" />
-
   <br />
+  
+  <a href="https://ibb.co/HLdL9N9d"><img src="https://i.ibb.co/xKHKrmrH/Gemini-Generated-Image-aeii8caeii8caeii-Photoroom.png" alt="Gemini-Generated-Image-aeii8caeii8caeii-Photoroom" border="0"></a>
 
   ### 📍 Curitiba, Brazil
   *Solving complex problems through code..*
@@ -15,6 +16,7 @@ I'm a **Full Stack Developer** at **Code21**, dedicated to building scalable bac
 *  **Current focus:** .NET, Go, and Angular.
 *  **AI & Research:** Exploring **Local LLMs** with Ollama.
 *  **Cloud Journey:** Currently studying **Google Cloud Platform (GCP)**.
+
 
 
 ---
